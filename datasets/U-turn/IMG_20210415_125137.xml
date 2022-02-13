@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>IMG_20210415_125137.jpg</filename>
+	<path>D:/Document/UTB notes/Semester 8/FYP/Dataset/start over/2/IMG_20210415_125137.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U-turn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1346</xmin>
+			<ymin>1288</ymin>
+			<xmax>1450</xmax>
+			<ymax>1408</ymax>
+		</bndbox>
+	</object>
+</annotation>
