@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14</folder>
+	<filename>IMG_20220110_084123_1.jpg</filename>
+	<path>D:/Document/UTB notes/Semester 8/FYP/Dataset/start over/14/IMG_20220110_084123_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed limit 50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>704</xmin>
+			<ymin>632</ymin>
+			<xmax>1176</xmax>
+			<ymax>1116</ymax>
+		</bndbox>
+	</object>
+</annotation>
